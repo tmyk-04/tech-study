@@ -3,7 +3,8 @@
 - `/report`へ本日の学習状況を報告します。
   （yyyymmdd.md）
 - 過去問道場の成績の詳細は`/report`と`csv_summary/`内のcsvを参照
-  （csvのファイル形式は`reportyyyymmdd{一意の数値}.csv`）
+  - csvのファイル形式は`reportyyyymmdd{一意の数値}.csv`
+  - 同一日付のcsvが複数ある場合は同一日付内の`{一意の数値}`が最大のものが最新とする
 
 ## AIエージェントへ
 学習状況を参照して学習プランを提案してください。
