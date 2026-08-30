@@ -1,0 +1,21 @@
+No.	正誤	分野名	大分類	中分類	出典	学習日
+1	○	テクノロジ系	技術要素	ネットワーク	=HYPERLINK("https://www.ap-siken.com/kakomon/18_haru/q53.html","平成18年春期 問53")	2026/8/30
+2	○	ストラテジ系	システム戦略	システム戦略	=HYPERLINK("https://www.ap-siken.com/kakomon/07_aki/q62.html","令和7年秋期 問62")	2026/8/30
+3	○	マネジメント系	サービスマネジメント	サービスマネジメント	=HYPERLINK("https://www.ap-siken.com/kakomon/24_aki/q55.html","平成24年秋期 問55")	2026/8/30
+4	×	マネジメント系	サービスマネジメント	システム監査	=HYPERLINK("https://www.ap-siken.com/kakomon/07_haru/q58.html","令和7年春期 問58")	2026/8/30
+5	×	ストラテジ系	経営戦略	技術戦略マネジメント	=HYPERLINK("https://www.ap-siken.com/kakomon/23_aki/q70.html","平成23年秋期 問70")	2026/8/30
+6	-	テクノロジ系	技術要素	ネットワーク	=HYPERLINK("https://www.ap-siken.com/kakomon/28_haru/q32.html","平成28年春期 問32")	2026/8/30
+7	○	マネジメント系	サービスマネジメント	サービスマネジメント	=HYPERLINK("https://www.ap-siken.com/kakomon/04_aki/q55.html","令和4年秋期 問55")	2026/8/30
+8	-	テクノロジ系	基礎理論	アルゴリズムとプログラミング	=HYPERLINK("https://www.ap-siken.com/kakomon/17_aki/q4.html","平成17年秋期 問4")	2026/8/30
+9	-	テクノロジ系	コンピュータシステム	ソフトウェア	=HYPERLINK("https://www.ap-siken.com/kakomon/20_haru/q22.html","平成20年春期 問22")	2026/8/30
+10	×	ストラテジ系	企業と法務	法務	=HYPERLINK("https://www.ap-siken.com/kakomon/29_aki/q78.html","平成29年秋期 問78")	2026/8/30
+11	×	テクノロジ系	技術要素	セキュリティ	=HYPERLINK("https://www.ap-siken.com/kakomon/01_aki/q41.html","令和元年秋期 問41")	2026/8/30
+12	○	テクノロジ系	開発技術	システム開発技術	=HYPERLINK("https://www.ap-siken.com/kakomon/21_aki/q44.html","平成21年秋期 問44")	2026/8/30
+13	○	テクノロジ系	技術要素	ネットワーク	=HYPERLINK("https://www.ap-siken.com/kakomon/30_aki/q32.html","平成30年秋期 問32")	2026/8/30
+14	×	ストラテジ系	企業と法務	企業活動	=HYPERLINK("https://www.ap-siken.com/kakomon/01_aki/q75.html","令和元年秋期 問75")	2026/8/30
+15	○	テクノロジ系	コンピュータシステム	ハードウェア	=HYPERLINK("https://www.ap-siken.com/kakomon/30_aki/q22.html","平成30年秋期 問22")	2026/8/30
+16	○	ストラテジ系	経営戦略	技術戦略マネジメント	=HYPERLINK("https://www.ap-siken.com/kakomon/27_haru/q70.html","平成27年春期 問70")	2026/8/30
+17	○	テクノロジ系	技術要素	セキュリティ	=HYPERLINK("https://www.ap-siken.com/kakomon/26_haru/q38.html","平成26年春期 問38")	2026/8/30
+18	-	テクノロジ系	コンピュータシステム	システム構成要素	=HYPERLINK("https://www.ap-siken.com/kakomon/17_haru/q31.html","平成17年春期 問31")	2026/8/30
+19	×	テクノロジ系	コンピュータシステム	ソフトウェア	=HYPERLINK("https://www.ap-siken.com/kakomon/27_aki/q16.html","平成27年秋期 問16")	2026/8/30
+20	×	テクノロジ系	技術要素	ネットワーク	=HYPERLINK("https://www.ap-siken.com/kakomon/01_aki/q35.html","令和元年秋期 問35")	2026/8/30
