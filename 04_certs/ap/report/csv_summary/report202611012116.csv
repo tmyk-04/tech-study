@@ -1,0 +1,21 @@
+﻿No.,正誤,分野名,大分類,中分類,出典,学習日
+1,×,テクノロジ系,コンピュータシステム,コンピュータ構成要素,"=HYPERLINK(""https://www.ap-siken.com/kakomon/19_aki/q17.html"",""平成19年秋期 問17"")",2026/11/3
+2,○,テクノロジ系,コンピュータシステム,システム構成要素,"=HYPERLINK(""https://www.ap-siken.com/kakomon/06_haru/q12.html"",""令和6年春期 問12"")",2026/11/3
+3,○,ストラテジ系,システム戦略,システム戦略,"=HYPERLINK(""https://www.ap-siken.com/kakomon/23_toku/q62.html"",""平成23年特別 問62"")",2026/11/3
+4,○,ストラテジ系,企業と法務,企業活動,"=HYPERLINK(""https://www.ap-siken.com/kakomon/27_aki/q77.html"",""平成27年秋期 問77"")",2026/11/3
+5,○,テクノロジ系,技術要素,ネットワーク,"=HYPERLINK(""https://www.ap-siken.com/kakomon/25_haru/q33.html"",""平成25年春期 問33"")",2026/11/3
+6,×,テクノロジ系,コンピュータシステム,システム構成要素,"=HYPERLINK(""https://www.ap-siken.com/kakomon/30_haru/q15.html"",""平成30年春期 問15"")",2026/11/3
+7,○,ストラテジ系,システム戦略,システム戦略,"=HYPERLINK(""https://www.ap-siken.com/kakomon/30_aki/q61.html"",""平成30年秋期 問61"")",2026/11/3
+8,×,テクノロジ系,コンピュータシステム,システム構成要素,"=HYPERLINK(""https://www.ap-siken.com/kakomon/19_haru/q20.html"",""平成19年春期 問20"")",2026/11/3
+9,○,テクノロジ系,技術要素,ネットワーク,"=HYPERLINK(""https://www.ap-siken.com/kakomon/26_aki/q33.html"",""平成26年秋期 問33"")",2026/11/3
+10,×,テクノロジ系,基礎理論,基礎理論,"=HYPERLINK(""https://www.ap-siken.com/kakomon/24_aki/q3.html"",""平成24年秋期 問3"")",2026/11/3
+11,○,テクノロジ系,コンピュータシステム,システム構成要素,"=HYPERLINK(""https://www.ap-siken.com/kakomon/29_aki/q15.html"",""平成29年秋期 問15"")",2026/11/3
+12,○,テクノロジ系,開発技術,システム開発技術,"=HYPERLINK(""https://www.ap-siken.com/kakomon/22_aki/q44.html"",""平成22年秋期 問44"")",2026/11/3
+13,○,テクノロジ系,基礎理論,アルゴリズムとプログラミング,"=HYPERLINK(""https://www.ap-siken.com/kakomon/25_aki/q8.html"",""平成25年秋期 問8"")",2026/11/3
+14,○,マネジメント系,サービスマネジメント,サービスマネジメント,"=HYPERLINK(""https://www.ap-siken.com/kakomon/23_aki/q54.html"",""平成23年秋期 問54"")",2026/11/3
+15,×,テクノロジ系,コンピュータシステム,コンピュータ構成要素,"=HYPERLINK(""https://www.ap-siken.com/kakomon/05_haru/q12.html"",""令和5年春期 問12"")",2026/11/3
+16,○,テクノロジ系,コンピュータシステム,ソフトウェア,"=HYPERLINK(""https://www.ap-siken.com/kakomon/03_aki/q18.html"",""令和3年秋期 問18"")",2026/11/3
+17,○,ストラテジ系,システム戦略,システム戦略,"=HYPERLINK(""https://www.ap-siken.com/kakomon/21_aki/q63.html"",""平成21年秋期 問63"")",2026/11/3
+18,×,マネジメント系,サービスマネジメント,サービスマネジメント,"=HYPERLINK(""https://www.ap-siken.com/kakomon/02_aki/q55.html"",""令和2年秋期 問55"")",2026/11/3
+19,×,テクノロジ系,コンピュータシステム,ソフトウェア,"=HYPERLINK(""https://www.ap-siken.com/kakomon/06_aki/q18.html"",""令和6年秋期 問18"")",2026/11/3
+20,○,テクノロジ系,基礎理論,基礎理論,"=HYPERLINK(""https://www.ap-siken.com/kakomon/22_aki/q4.html"",""平成22年秋期 問4"")",2026/11/3
